@@ -1,4 +1,4 @@
-The first Mobile app prototype build using FIGMA
+Mobile app prototype build using FIGMA
 
 
 ⭐A music app similar to spotify
