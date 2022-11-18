@@ -6,6 +6,7 @@ Mobile app prototype build using FIGMA
 ⭐Home page
 ⭐Design type: minimalistic
 
+Samples🔗❤️
 
 ![pk1](https://user-images.githubusercontent.com/68800715/202740371-81768f17-1ce9-49a5-9774-a0098b093d80.jpg)
 
